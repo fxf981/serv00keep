@@ -1,5 +1,5 @@
 # serv00keep
- 利用CF Pages保活Serv00
+ 利用CF Worker保活Serv00
 
 # 变量
     ACCOUNTS_JSON
